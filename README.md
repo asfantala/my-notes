@@ -16,3 +16,7 @@ I read the article that you [attached](https://www.freecodecamp.org/news/learn-t
 3. (mis)understanding 
 4. simplicity
 5. complexity
+
+# NOTE 
+
+**if you like to read more about this subject just click on attached**
